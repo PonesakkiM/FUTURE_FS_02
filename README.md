@@ -20,28 +20,10 @@
 
 ---
 
-## 📸 Screenshots
 
-### 🖥️ Home Page
-![Home](https://via.placeholder.com/800x400.png?text=Home+Page)
-
-### 📋 Dashboard
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard)
-
-### ➕ Add Customer
-![Add Customer](https://via.placeholder.com/800x400.png?text=Add+Customer)
-
-> ⚠️ Replace these images with your actual screenshots
 
 ---
 
-## 🎥 Demo (Optional)
-
-![Demo GIF](https://via.placeholder.com/800x400.gif?text=Project+Demo)
-
-> Add a screen recording GIF here (very attractive for recruiters 🔥)
-
----
 
 ## ✨ Features
 
